@@ -85,12 +85,6 @@ holographic-point-cloud/
 - **Tailwind CSS** for styling
 - **Vite** for build tooling
 
-## Environment Variables
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `GEMINI_API_KEY` | Optional | Google Gemini API key - currently not in use but available for future AI features |
-| `APP_URL` | Optional | Application URL for AI Studio integration |
 
 ## Troubleshooting
 
