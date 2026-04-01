@@ -1,0 +1,9 @@
+{
+  "name": "Holographic Point Cloud",
+  "description": "Renders a 3D point cloud from webcam using MediaPipe and Three.js",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
