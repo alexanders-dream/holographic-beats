@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="Holographic Point Cloud" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Holographic Point Cloud
 
 A real-time 3D holographic point cloud visualization that transforms webcam video into an interactive particle system using AI-powered body segmentation.
